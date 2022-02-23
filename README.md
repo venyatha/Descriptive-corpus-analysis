@@ -1,7 +1,6 @@
 # Descriptive-corpus-analysis
 
 ## Topic Models for Healthcare 
-## Venyatha Manne
 
 ## Goal
 
