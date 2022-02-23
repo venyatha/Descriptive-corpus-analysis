@@ -1,0 +1,580 @@
+Topic 1
+--------
+go
+say
+take
+told
+get
+see
+would
+month
+day
+could
+-Collection 0
+  bigelow
+  year
+  life
+  thank
+  found
+  save
+  daughter
+  every
+  help
+  thanks
+-Collection 1
+  told
+  ask
+  stay
+  pain
+  med
+  bother
+  report
+  let
+  weight
+  die
+-Collection 2
+  bigelow
+  life
+  year
+  save
+  thank
+  one
+  problem
+  doctor
+  cancer
+  husband
+-Collection 3
+  told
+  say
+  test
+  ask
+  eye
+  pain
+  later
+  blood
+  never
+  order
+
+
+Topic 2
+--------
+bigelow
+see
+doctor
+know
+like
+year
+child
+help
+go
+good
+-Collection 0
+  love
+  great
+  always
+  care
+  best
+  amaze
+  family
+  awesome
+  honest
+  pediatrician
+-Collection 1
+  bad
+  money
+  waste
+  attitude
+  another
+  unless
+  act
+  shes
+  paid
+  dog
+-Collection 2
+  love
+  great
+  doctor
+  always
+  best
+  year
+  care
+  family
+  amaze
+  son
+-Collection 3
+  get
+  bad
+  guy
+  seem
+  problem
+  man
+  nothing
+  wrong
+  someone
+  let
+
+
+Topic 3
+--------
+call
+office
+get
+insurance
+phone
+staff
+back
+need
+return
+visit
+-Collection 0
+  bigelow
+  staff
+  nice
+  year
+  good
+  personally
+  hollie
+  busy
+  satisfied
+  plan
+-Collection 1
+  month
+  week
+  told
+  later
+  bill
+  refuse
+  blood
+  show
+  forgot
+  appt
+-Collection 2
+  staff
+  bigelow
+  great
+  good
+  helpful
+  nice
+  get
+  problem
+  nurse
+  well
+-Collection 3
+  money
+  bill
+  wife
+  told
+  insurance
+  state
+  med
+  charge
+  pay
+  later
+
+
+Topic 4
+--------
+bigelow
+time
+question
+answer
+make
+manner
+doctor
+patient
+feel
+concern
+-Collection 0
+  great
+  take
+  really
+  care
+  listens
+  thorough
+  excellent
+  everything
+  wonderful
+  professional
+-Collection 1
+  rude
+  seem
+  cold
+  poor
+  little
+  lack
+  horrible
+  less
+  unfortunately
+  speak
+-Collection 2
+  great
+  take
+  always
+  everything
+  explain
+  answer
+  care
+  question
+  kind
+  manner
+-Collection 3
+  seem
+  rude
+  like
+  waste
+  cold
+  enough
+  little
+  comment
+  visit
+  arrogant
+
+
+Topic 5
+--------
+wait
+time
+see
+appointment
+get
+hour
+room
+minute
+office
+doctor
+-Collection 0
+  time
+  always
+  little
+  lot
+  helpful
+  thorough
+  problem
+  worth
+  long
+  friendly
+-Collection 1
+  told
+  tell
+  bad
+  practice
+  hour
+  people
+  awful
+  cancel
+  word
+  twice
+-Collection 2
+  time
+  patient
+  bigelow
+  need
+  take
+  like
+  know
+  good
+  office
+  long
+-Collection 3
+  told
+  ask
+  room
+  week
+  say
+  hour
+  back
+  another
+  minute
+  left
+
+
+Topic 6
+--------
+make
+like
+go
+first
+would
+feel
+say
+want
+come
+never
+-Collection 0
+  feel
+  comfortable
+  amaze
+  deliver
+  baby
+  pregnancy
+  sure
+  trust
+  child
+  gyn
+-Collection 1
+  unprofessional
+  instead
+  heard
+  horrible
+  pill
+  pap
+  basically
+  test
+  drug
+  control
+-Collection 2
+  make
+  feel
+  comfortable
+  bigelow
+  deliver
+  wonderful
+  well
+  amaze
+  child
+  pregnancy
+-Collection 3
+  ask
+  nurse
+  tell
+  man
+  horrible
+  front
+  act
+  walk
+  yell
+  unprofessional
+
+
+Topic 7
+--------
+bigelow
+staff
+recommend
+would
+doctor
+care
+office
+anyone
+great
+experience
+-Collection 0
+  highly
+  knowledgeable
+  recommend
+  friendly
+  helpful
+  professional
+  friend
+  wonderful
+  kind
+  knowledgable
+-Collection 1
+  rude
+  unprofessional
+  terrible
+  poor
+  disappointed
+  document
+  petok
+  harwer
+  somewhere
+  suck
+-Collection 2
+  highly
+  recommend
+  knowledgeable
+  friendly
+  excellent
+  helpful
+  professional
+  wonderful
+  thorough
+  knowledgable
+-Collection 3
+  rude
+  horrible
+  unprofessional
+  terrible
+  poor
+  uncaring
+  arrogant
+  awful
+  unhelpful
+  avoid
+
+
+Topic 8
+--------
+surgery
+pain
+procedure
+bigelow
+back
+go
+would
+surgeon
+result
+look
+-Collection 0
+  cancer
+  happy
+  dermatologist
+  kolb
+  skin
+  woman
+  explain
+  really
+  lee
+  extremely
+-Collection 1
+  horrible
+  please
+  still
+  cause
+  mistake
+  skin
+  hysterectomy
+  suppose
+  didnt
+  supposedly
+-Collection 2
+  surgery
+  surgeon
+  recommend
+  day
+  recovery
+  perform
+  shakiba
+  thank
+  week
+  amaze
+-Collection 3
+  still
+  mri
+  bad
+  cause
+  told
+  even
+  another
+  left
+  get
+  cut
+
+
+Topic 9
+--------
+problem
+treatment
+medication
+condition
+give
+medical
+patient
+specialist
+diagnosis
+bigelow
+-Collection 0
+  year
+  help
+  work
+  well
+  health
+  issue
+  able
+  also
+  thorough
+  excellent
+-Collection 1
+  record
+  prescribed
+  condescend
+  license
+  file
+  prescription
+  mean
+  avoid
+  arrogant
+  ignore
+-Collection 2
+  help
+  year
+  pain
+  work
+  well
+  treatment
+  able
+  see
+  issue
+  life
+-Collection 3
+  pain
+  drug
+  opinion
+  refuse
+  another
+  record
+  wrong
+  practice
+  report
+  pill
+
+
+Topic 10
+--------
+doctor
+bigelow
+patient
+care
+ever
+one
+treat
+practice
+medical
+physician
+-Collection 0
+  best
+  care
+  excellent
+  compassionate
+  knowledgeable
+  wonderful
+  personable
+  truly
+  smart
+  kind
+-Collection 1
+  bad
+  away
+  uncaring
+  terrible
+  appear
+  elsewhere
+  unhelpful
+  idea
+  zero
+  beware
+-Collection 2
+  best
+  care
+  kind
+  compassionate
+  excellent
+  truly
+  knowledgeable
+  physician
+  professional
+  wonderful
+-Collection 3
+  bad
+  money
+  away
+  stay
+  life
+  lack
+  license
+  medicine
+  people
+  hospital
+
+
